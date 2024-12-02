@@ -63,16 +63,8 @@ Generate test reports using Allure:
 File Structure
 --------------
 
-       project-root/
-├── cypress/
-│   ├── e2e/              # Test specs
-│   ├── fixtures/         # Test data (JSON files)
-│   ├── pages/            # Page Object Models
-│   ├── commands.js       # Custom Cypress commands
-│   ├── support/          # Support files
-├── reports/              # Allure reports folder
-├── cypress.config.js     # Cypress configuration
-├── package.json          # Dependencies and scripts
+
+        `project-root/ ├── cypress/ │   ├── e2e/              # Test specs │   ├── fixtures/         # Test data (JSON files) │   ├── pages/            # Page Object Models │   ├── commands.js       # Custom Cypress commands │   ├── support/          # Support files ├── reports/              # Allure reports folder ├── cypress.config.js     # Cypress configuration ├── package.json          # Dependencies and scripts`
         
     
 
