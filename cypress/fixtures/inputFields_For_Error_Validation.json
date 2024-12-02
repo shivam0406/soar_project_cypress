@@ -1,0 +1,18 @@
+[
+    {
+        "selector": "#emailControl",
+        "errorMessage": "Please provide an email address."
+    },
+    {
+        "selector": "#passwordControl",
+        "errorMessage": "Please provide a password."
+    },
+    {
+        "selector": "#repeatPasswordControl",
+        "errorMessage": "Please repeat your password."
+    },
+    {
+        "selector": "#securityAnswerControl",
+        "errorMessage": "Please provide an answer to your security question."
+    }
+]
